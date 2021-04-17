@@ -1,2 +1,2 @@
 # goLearning
-A repository for the studies of GoLang
+A repository for studies of GoLang
